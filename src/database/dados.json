@@ -1,0 +1,42 @@
+[
+  {
+    "id":1,
+    "title":"Life in a year",
+    "author":"José Mourinho",
+    "img":"http://localhost:5173/src/img/user/se010.jpg",
+    "description":"Lorem capsum color dolor amsuk pritim drack plouin sjin sojs sish sentiin siowoak sobwnaj soajsnsj sosjsnsj sjsjsksjsj sisoskns",
+    "view":"Lorem ipsum dolor usuarios ficou staying at home place now viwa sksk posth sjabnjsi sjsj"
+  },
+    {
+    "id":2,
+    "title":"Elon Code Review",
+    "author":"Ronaldo de César",
+    "img":"http://localhost:5173/src/img/user/se014.jpg",
+    "description":"Lorem capsum color dolor amsuk pritim drack plouin sjin sojs sish sentiin siowoak sobwnaj soajsnsj sosjsnsj sjsjsksjsj sisoskns",
+    "view":"Lorem ipsum dolor usuarios ficou staying at home place now viwa sksk posth sjabnjsi sjsj"
+  },
+    {
+    "id":3,
+    "title":"Ano de copa",
+    "author":"Steven Jobs",
+    "img":"http://localhost:5173/src/img/user/se004.jpg",
+    "description":"Lorem capsum color dolor amsuk pritim drack plouin sjin sojs sish sentiin siowoak sobwnaj soajsnsj sosjsnsj sjsjsksjsj sisoskns",
+    "view":"Lorem ipsum dolor usuarios ficou staying at home place now viwa sksk posth sjabnjsi sjsj"
+  },
+    {
+    "id":4,
+    "title":"Ghana Venceu a copa",
+    "author":"Ferran Torres",
+    "img":"http://localhost:5173/src/img/user/se008.jpg",
+    "description":"Lorem capsum color dolor amsuk pritim drack plouin sjin sojs sish sentiin siowoak sobwnaj soajsnsj sosjsnsj sjsjsksjsj sisoskns",
+    "view":"Lorem ipsum dolor usuarios ficou staying at home place now viwa sksk posth sjabnjsi sjsj"
+  },
+    {
+    "id":5,
+    "title":"Russia lança missil nuclear",
+    "author":"Simudin",
+    "img":"http://localhost:5173/src/img/user/se013.jpg",
+    "description":"Lorem capsum color dolor amsuk pritim drack plouin sjin sojs sish sentiin siowoak sobwnaj soajsnsj sosjsnsj sjsjsksjsj sisoskns",
+    "view":"Lorem ipsum dolor usuarios ficou staying at home place now viwa sksk posth sjabnjsi sjsj"
+  }
+]
