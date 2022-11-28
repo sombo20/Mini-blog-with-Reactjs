@@ -13,12 +13,8 @@ export default function Shownews(){
       const url = "http://localhost:5173/src/database/dados.json"
       const response = await fetch(url);
       const datar = await response.json()
-           datar.forEach(function(a){
-              if(a.id == id){
-                setData(a)
-              }
-           })
-        
+      const item = datar.find(row => row.id === id)
+      setData(item)
       }catch(error){
         console.log(error)
       }finally{
