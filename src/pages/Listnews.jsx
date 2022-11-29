@@ -18,7 +18,7 @@ export default function Listnews({item}){
             </p>
           </div>
          <div className="more">
-				    <Link to={`/show/${e.id}`}>Read more</Link>
+				    <Link key={e.id} to={`/show/${e.id}`}>Read more</Link>
 			   </div>
 			   </div>
         )}
